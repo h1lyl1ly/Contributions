@@ -1,1 +1,9 @@
-QQ
+- Farcaster
+- Nubit
+- OG Labs
+- Analog
+- Nesa
+- Voi
+- Union
+- Allora
+- eOracle
