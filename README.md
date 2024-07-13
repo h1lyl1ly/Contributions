@@ -12,7 +12,7 @@ The list of projects will be posted here, but we contribute faster, than i post 
 
 - Farcaster
 - Nubit
-- OG Labs
+- [OG Labs](https://github.com/h1lyl1ly/Contributions/blob/main/Testnets/OG-Labs.md)
 - Analog
 - Nesa
 - Voi
